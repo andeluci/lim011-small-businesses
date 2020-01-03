@@ -60,11 +60,64 @@ Para realizar este proyecto hemos seleccionado las siguientes herramientas:
 ## 4. Proceso UX
 
 ### 4.1) Descubrimiento y Planificación
+
 #### Entrevista con el Cliente
+![image](https://github.com/andeluci/lim011-small-businesses/blob/master/Imagenes/EC.jpg?raw=true)
+
+- “Estamos apuntando a hacernos de un nombre y establecernos con nuestros **clientes grandes**.”
+
+- “Las empresas piden una **cotización formal**, se digitaliza la hoja de cotización y se envía un correo con el **documento formal** en pdf para su aceptación previa y así queden **garantías** para ambas partes.”
+
+- “Nuestra estrategia es enviar un **especialista** a la visita de cotización ya sea un proyecto grande o pequeño.”
+
+- “Los constructores nos contactan por **referencias** porque ya **conocen nuestro trabajo** y por eso **siempre nos llaman**, no tenemos que competir con empresas similares a nosotros.”
+
+- “Nuestras mejores cualidades de servicio son: **El proceso de atención bien estructurado, respetamos las fechas pactadas y calidad de servicio**.”
+
 
 #### Entrevista con usuarios
 
+Se entrevisto a 5 usuarios: 2 arquitectos, 1 ingeniero civil y 2 empresarios. Ellos son parte de **nuestro usuario principal**. Pero también se entrevisto a 3 usuarios que son jefes del hogar, ellas son parte del usuario secundario.
+
+- “Es importante que se **respeten las fechas pactadas** porque me asegura que tendré el servicio a tiempo.”
+
+- “Para mí es importante la **calidad del servicio**.”
+
+- “Me gustaría saber **con qué empresas han trabajado**.”
+
+- “Me daría **confianza** si tienen un **buen proceso de atención**.”
+
+- “A veces que haya un **contacto directo** es complicado y no siento que esté hablando realmente con la empresa.”
+
+- “Mientras más **detallada la cotización** es mejor.”
+
+- “Buscamos estos servicios por **recomendaciones** de personas en el rubro.”
+
+- “Un buen servicio es que sean **comprometidos** y que estén **pendientes** hasta que yo esté satisfecho.”
+
+
 #### Bechmarck
+
+Los criterios utilizados para la selección, de estos referentes, fueron los siguientes:
+
+**Calidad de Información**
+
+- Brindan información actualizada, clara y específica de los servicios que brindan y la finalidad de la empresa (visión y misión).
+
+**Servicio al Cliente**
+
+- Cuentan con diferentes canales de comunicación que permiten al usuario elegir dónde desea requerir información (telefonos, direccion, horarios, correo, etc).
+
+**Navegabilidad**
+
+- Los websites cuentan con una estructura ordenada y clara que facilita orientación intuitiva durante la navegación. Los iconos son interpretados con facilidad.
+
+**Selección de Contenido**
+
+- El contenido es completo, se puede encontrar información valiosa y precisa que facilita el entendimiento de su trabajo.
+
+Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d/18JAyGJAPqothuz5T1NUMjuR73qDYXo9qlApMEaKyPuE/edit?usp=sharing)
+
 
 ### 4.2) Síntesis y Definición
 #### Affinity Map
