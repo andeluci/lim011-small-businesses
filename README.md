@@ -138,7 +138,7 @@ Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d
 
 #### User Persona
 
-#### Affinity Map
+![image 4](https://github.com/andeluci/lim011-small-businesses/blob/master/Imagenes/User%20Persona.png?raw=true)
 
 #### Customer Journey Map
 
