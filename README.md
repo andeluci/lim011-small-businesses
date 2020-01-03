@@ -120,7 +120,21 @@ Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d
 
 
 ### 4.2) Síntesis y Definición
+
 #### Affinity Map
+![image 2](https://github.com/andeluci/lim011-small-businesses/blob/master/Imagenes/Affinity%20Map%201.jpg?raw=true)
+
+![image 3](https://github.com/andeluci/lim011-small-businesses/blob/master/Imagenes/Affinity%20Map%202.jpg?raw=true)
+
+**Conclusiones**
+
+- Para la mayoría de nuestros usuarios es importante la **calidad** del servicio y que se respeten los **tiempos pactados**, eso les da una señal de que hay **compromiso**.
+- Para la mayoría de nuestros usuarios es necesario que estos servicios cuenten con buenos **comentarios, recomendaciones** y presentación de **proyectos ejecutados**, ya que es información que les genera confianza.
+- Para nuestros usuarios es primordial que haya una **comunicación constante y directa** durante todo el proceso de atención y servicio.
+- Nuestros usuarios consideran que la **cotización** de estos servicios debe ser **formal y detallada**.
+- Para la mayoría de nuestros usuarios es mejor **buscar** estos servicios por medio de una **página web**, sino solo por **recomendaciones** de colegas.
+- Una parte pequeña de nuestros usuarios han tenido una **mala experiencia** del servicio que les han brindado.
+- Algunos de nuestros usuarios piensan que estos servicios son **necesarios e importantes**.
 
 #### User Persona
 
