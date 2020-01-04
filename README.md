@@ -95,6 +95,7 @@ Se entrevisto a 5 usuarios: 2 arquitectos, 1 ingeniero civil y 2 empresarios. El
 
 - “Un buen servicio es que sean **comprometidos** y que estén **pendientes** hasta que yo esté satisfecho.”
 
+Ver entrevistas de cliente y usuarios [aquí](https://drive.google.com/drive/folders/1stduZeepUC0S0_QA5ChAYYkk22s5t44N?usp=sharing)
 
 #### Bechmarck
 
@@ -136,21 +137,66 @@ Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d
 - Una parte pequeña de nuestros usuarios han tenido una **mala experiencia** del servicio que les han brindado.
 - Algunos de nuestros usuarios piensan que estos servicios son **necesarios e importantes**.
 
+Ver el detalle [aquí](https://miro.com/welcomeonboard/8eYqtfgNuWk0dzuBwHC9tENeANlUrtmaiQZs9zHKv1CeQ5C55L8MepzQBKCEM12z)
+
 #### User Persona
 
 ![image 4](https://github.com/andeluci/lim011-small-businesses/blob/master/Imagenes/User%20Persona.png?raw=true)
 
 #### Customer Journey Map
 
+![image 5](https://github.com/andeluci/lim011-small-businesses/blob/master/Imagenes/Customer%20Journey%20Map.png?raw=true)
+
 #### Definición del Producto
+
+**Problem Statements**
+
+- Julio **necesita** ver los comentarios y recomendaciones de otras empresas **para** verificar si brindan un buen servicio.
+- Julio **necesita** información detallada de los proyectos ejecutados que realizó la empresa **porque** quiere ver que se hayan respetado los diseños.
+- Julio **quisiera** que la comunicación con la empresa sea constante y directa **porque** se pueden presentar cambios o dificultades durante el proceso del proyecto.
+- Julio **quisiera** que las cotizaciones sean formales y detalladas **porque** así le generaría confianza para poder contratar a la empresa.
+- Julio **necesita** encontrar la información de contacto **porque** quiere comunicarse rápidamente con la empresa.
+
+**HMW**
+
+- HMW implementar una web para que el usuario encuentre referencias de que la empresa brinda un buen servicio.
+- HMW mostrar el proceso detallado de los proyectos ejecutados por la empresa.
+- HMW mejorar la comunicación para que el usuario sienta que habla directamente con la empresa.
+- HMW contar con un proceso de cotización formal que sea facil y rapido.
+- HMW brindar diferentes alternativas de contacto dinámicas.
+
+**WHAT IF?**
+
+- WHAT IF el usuario encontrara una sección de comentarios y calificación de las empresas que contrataron este servicio.
+- WHAT IF el usuario encontrara una galeria de imagenes 3D de los proyectos.
+- WHAT IF el usuario encontrara detalles de los proyectos (empresa que lo contrató, distrito, el tiempo aprox en que se ejecutó y qué tipo de servicio se contrató.)
+- WHAT IF el usuario tiene acceso a un número de contacto disponible para estar en comunicación constante durante el servicio.
+- WHAT IF la cotizacion solo se realizara por la plataforma web a través de un formulario sin necesidad de enviar un correo. 
+- WHAT IF si el usuario en la web, subiera las fotos del lugar donde desea realizar el servicio y así se le brindara una cotización más real sin necesidad de tener una visita de la empresa.
+- WHAT IF el usuario resuelve todas sus dudas a través de un chat interactivo online.
+- WHAT IF el usuario ve en la web constantemente la información de contacto de la empresa.
+
+**Feature List**
+
+- Hacer un slider,  que pase en automático,  de recomendaciones y ranking donde se visualice el logo de la empresa que brinda el comentario.
+- Una galería de imágenes del antes, durante y después del proyecto con información de  quien se le brindó ese trabajo y que servicio se ejecutó.
+- Cada tipo de servicio debe tener un formulario abajo donde solo se ponga detalle de los m2 o calidad de materiales y al dar enviar no necesite redactar un correo electrónico.
+- Crear un espacio donde los clientes puedan dejar sus comentarios y calificaciones sobre el servicio.
+- Hacer visible y constante la información de contacto de la empresa en el footer de la web.
+- Agregar un chatbot de preguntas necesarias que se auto-respondan luego de darles click, y que al final el usuario brinde un correo donde se el envíe la cotización.
+
+Ver el detalle de Definición del Producto [aquí](https://docs.google.com/presentation/d/1AbMVBKm5I_f_oSXt_OAyU7WLN_CPMScLwrAUwpZLPhE/edit?usp=sharing)
+
 
 ### 4.2) Ideación, Prototipado y user testing
 
-#### Bechmark por cada Problem Statement
+#### Bechmark por cada Problem Statement y Crazy 8s
 
-#### Crazy 8s
+Ver el detalle [aquí](https://docs.google.com/presentation/d/1NT-dHC9JmoVjJLnG8XJE2c6glrACAfFQkGMm-RqMLWU/edit?usp=sharing)
 
 #### Flujo de Contenidos
+
+Ver el detalle [aquí](https://miro.com/welcomeonboard/KbiDaeudWIzzpBP9B0X2qKGb0Nk9V8NStiDAQYyhmCTOg93hqpfuxI1ZO9kQlBYV)
 
 #### Prototipo de Mediana Fidelidad 
 
@@ -163,4 +209,8 @@ Ver el detalle de las referencias [aquí](https://docs.google.com/presentation/d
 
 
 ## 6. Enlaces
+
+- Carpeta de Drive compartido
+- Prototipado en figma
+- Archivo en Zeplin
 
