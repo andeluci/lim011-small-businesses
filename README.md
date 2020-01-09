@@ -216,6 +216,7 @@ Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Pr
 **Conclusiones:**
 
 Usuario 1:
+
 - Demoró aproximadamente 5 minutos en navegar por la web app.
 - Indica que el servicio que más llamó su atención fue el de "Instalación de Drywall"
 - Indica que no ve necesario el botón de "Cotiza" en la portada del proyecto porque puede ver el botón principal de "Cotizar" en el menú principal.
@@ -224,8 +225,59 @@ Usuario 1:
 
 Usuario 2:
 
+Ver video [aquí](https://www.loom.com/share/2285796333e54b2d89fe794f9135fc97) 
+
+- Navegó aproximadamente 9 minutos en la web app.
+- Menciona que la página está bien diseñada.
+- Le gusta como se ve la sección de los proyectos.
+- Le da la impresión de que la empresa hace bien su trabajo.
+- Le agrada que en la cotización te preguntan lo necesario y que te puedan responder rápido.
+- Le fue fácil navegar en la página porque dice que lo va "llevando de la mano."
+- Le gusta que le den bastantes opciones de contacto y piensa que ofrece una buena comunicación.
+
+Usuario 3:
+
+Ver video [aquí](https://www.loom.com/share/d22876758d9f4ab89c36e17b03e72091) 
+
+- Demoró aproximadamente 6 minutos en la web app.
+- Menciona que le parece una manera fácil de buscar servicios.
+- Le gusta como se presenta la empresa y la manera en que presentan sus proyectos y los servicios que ofrecen.
+- Le gusta la forma en que se presenta la cotización.
+- Le parece fácil el modo de chatear con la empresa.
+- Le gusta toda la información que se le brinda para poder comunicarse.
+
+Usuario 4:
+
+Ver video [aquí](https://www.loom.com/share/ca6f5452df81468197002ca242901c8d) 
+
+- Demoró aproximadamente 10 minutos en la web app.
+- Indica que desearía ver un catálogo visible desde la página de inicio o que en el slider se pueda ver diferentes modelos de trabajos de cada servicio.
+- Indica que el chatbot debería ser una burbuja que constantemente se vea, ya que usualmente no llega a ver el final de la web (footer). 
+- La cotización le parece larga, desea solo consultar por el chatbot. Además, si realiza la cotización le gustaría que le llegue una confirmación de que su solicitud está en proceso. 
+- Que pasa si él realiza la cotización un sábado, ¿le contestan dentro de las 24 horas?. Si no es así, debería haber una indicación que solo se responde en días hábiles.
+- Le parece importante los comentarios pero desearía ver un ranking de estrellas. Además, las fotos de portada le parece muy grande.
+- Desearía que los servicios tengan subcategorías de que tipo de servicio detallado hay en cada uno de ellos.
+- Le gustaría que al poner el cursor en servicios se pueda ver un desplegable de los servicios y las subcategorías si es que llega existir. 
+- Le gustaría que recalquen que son expertos en carpintería ya que no entiende porque se ve carpintería más grande y servicios generales más pequeño y en la sección "Servicios" aparecen todos por igual. Se deberia recalcar de alguna forma que son expertos carpinteros. 
+
+Usuario 5:
+
+Ver video [aquí](https://www.loom.com/share/510fe39b752145dea39440001c198d2d) 
+
+- Demoró aproximadamente 7 minutos en la web app.
+- Desearía saber que en cada categorías de los servicios hayan detalles como: muebles para cocina, para cuartos, para tiendas, etc (tipos de muebles).
+- No llega a ver los botones de chat y recomendación en el footer, indica que no llega a ver casi nunca la parte final de una web. El botón de recomendación podría quedar abajo, pero el de chat debería ser una burbuja o estar en el menú principal.
+- ¿Si no sabe las medidas es obligatorio responder eso en el formulario de cotización?
+- En adjuntar foto, debería decir si es una foto referencial del tipo de trabajo que desea o si puede adjuntar la foto del lugar donde desea hacer el servicio.
+
 
 ## 5. Conclusiones 
+
+- La comunicación constante para todos los usuarios es la herramienta principal para este tipo de empresas, ya que en eso se basa su confianza y la calidad de empresa con la que puede contratar.
+- Contar con catálogos de fotos de referencias de sus anteriores trabajos o proyectos es también pieza clave para poder solicitar una cotización. Caso contrario cierra la web y siguen buscando otra empresa.
+- FyM debe tener en cuenta que debería hacer una estrategia de SEO y SEM para poder llegar a más usuarios que esten solicitando este tipo de servicios. Caso contrario, el tráfico sera lento y no se podrá posicionar la web entre las primeras paginas de búsqueda. 
+- FyM debería hacer una renovación de logo, que se muestre minimalista y fresca. El que brindamos es una muestra de lo que podría implementar. 
+- Se realizó un prototipo de desktop ya que estos usuarios suelen buscar desde una laptop en sus horarios de oficina. 
 
 
 ## 6. Enlaces
