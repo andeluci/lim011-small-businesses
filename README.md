@@ -206,7 +206,21 @@ Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Pr
 
 #### Prototipo de Alta Fidelidad
 
+Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=88%3A285&viewport=-1565%2C-4088%2C1&scaling=min-zoom) 
+
+
 #### User Testing
+
+**Conclusiones:**
+
+Usuario 1:
+- Demoró aproximadamente 5 minutos en navegar por la web app.
+- Indica que el servicio que más llamó su atención fue el de "Instalación de Drywall"
+- Indica que no ve necesario el botón de "Cotiza" en la portada del proyecto porque puede ver el botón principal de "Cotizar" en el menú principal.
+- Le dio mucha importancia el poder visualizar los comentarios.
+- NOTA IMPORTANTE: No notó los botones de chat y recomendación.
+
+Usuario 2:
 
 
 ## 5. Conclusiones 
