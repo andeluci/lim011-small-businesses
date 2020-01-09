@@ -206,6 +206,8 @@ Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Pr
 
 #### Prototipo de Alta Fidelidad
 
+![image 6](https://github.com/andeluci/lim011-small-businesses/blob/master/Imagenes/Alta%20Fidelidad.jpg?raw=true)
+
 Ver el detalle [aquí](https://www.figma.com/proto/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=88%3A285&viewport=-1565%2C-4088%2C1&scaling=min-zoom) 
 
 
