@@ -284,5 +284,5 @@ Ver video [aquí](https://www.loom.com/share/510fe39b752145dea39440001c198d2d)
 
 - [Carpeta de Drive compartido](https://drive.google.com/drive/folders/1yy1KmRIdEJAv-IyLeNo3txQwA0hq36A6?usp=sharing)
 - [Prototipado en figma](https://www.figma.com/file/Cf5h70hypMzoe4p8FQbvU9/FYM-Project?node-id=0%3A1)
-- Archivo en Zeplin
+- [Archivo en Zeplin](https://zpl.io/29EJWjz)
 
